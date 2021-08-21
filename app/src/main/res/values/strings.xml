@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tutorial_1</string>
+    <string name="edit_massage">Enter a Massage</string>
+    <string name="button_send">Send</string>
+</resources>
